@@ -1,3 +1,4 @@
+<html>
 <head>
 <style>
         table {
@@ -31,7 +32,7 @@
         }
     </style>
 </head>
-
+<body>
 # Introduction
 
 <!---
@@ -141,3 +142,5 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=myasirmughal&show_icons=true&locale=en" alt="myasirmughal" /></p>
 
 <p><img align=" center" src="https://github-readme-streak-stats.herokuapp.com/?user=myasirmughal&" alt="myasirmughal" /></p>
+</body>
+</html>
