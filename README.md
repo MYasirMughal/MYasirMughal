@@ -1,3 +1,37 @@
+<head>
+<style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        td {
+            padding: 10px;
+        }
+
+        img {
+            width: 100%;
+            height: auto;
+            max-width: 150px; /* ensures it doesn’t exceed 150px width */
+            max-height: 150px; /* ensures it doesn’t exceed 150px height */
+        }
+
+        /* Make the table more responsive on smaller screens */
+        @media (max-width: 600px) {
+            td {
+                display: block;
+                width: 100%;
+                text-align: center;
+            }
+
+            img {
+                max-width: 100%;
+                height: auto;
+            }
+        }
+    </style>
+</head>
+
 # Introduction
 
 <!---
@@ -40,44 +74,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://www.netacad.com/sites/all/themes/custom/prelogin/assets/img/cisco_netacad_logo.png" alt="Cisco Networking Academy" height="30" width="80">
   Cisco Achieved Badges
 </h3>
-
-
-
-
-<style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-
-        td {
-            padding: 10px;
-        }
-
-        img {
-            width: 100%;
-            height: auto;
-            max-width: 150px; /* ensures it doesn’t exceed 150px width */
-            max-height: 150px; /* ensures it doesn’t exceed 150px height */
-        }
-
-        /* Make the table more responsive on smaller screens */
-        @media (max-width: 600px) {
-            td {
-                display: block;
-                width: 100%;
-                text-align: center;
-            }
-
-            img {
-                max-width: 100%;
-                height: auto;
-            }
-        }
-    </style>
-
-
-
 
 <table>
   <tr>
