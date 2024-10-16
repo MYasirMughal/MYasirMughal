@@ -95,7 +95,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
+/*
 <div style="display: flex; justify-content: flex-start; align-items: center; flex-wrap: wrap; margin-top: 20px;">
 
   <a href="https://www.credly.com/earner/earned/badge/627a72ce-39c3-4982-84b6-dc7ee708b2c1" style="margin-right: 10px;">
@@ -156,7 +156,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-
+*/
 
 
 
