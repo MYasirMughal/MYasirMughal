@@ -87,7 +87,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://images.credly.com/size/110x110/images/f7387386-553c-4be5-b3f3-077f78152f31/Network_Security.png" alt="Network Security badge image. Issued by Cisco" style="width: auto; height: auto; max-width: 100px; max-height: 100px;">
   </a>
 
-<a href="https://www.credly.com/earner/earned/badge/3bc754bd-81d8-40a8-88fb-5dc4032e1af4">
+<a href="https://www.credly.com/earner/earned/badge/3bc754bd-81d8-40a8-88fb-5dc4032e1af4" style="margin-right: 10px;">
 <img src="https://images.credly.com/size/340x340/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png" alt="IT Essentials badge image. Issued by Cisco" style="width: auto; height: auto; max-width: 100px; max-height: 100px;">
 </a>    
 
