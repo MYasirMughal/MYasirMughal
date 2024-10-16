@@ -93,7 +93,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
+<!---
 
 /*
 <div style="display: flex; justify-content: flex-start; align-items: center; flex-wrap: wrap; margin-top: 20px;">
@@ -158,7 +158,7 @@ You can click the Preview link to take a look at your changes.
 
 */
 
-
+--->
 
 <table>
 </table>
