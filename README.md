@@ -84,6 +84,9 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 
+<a href="https://www.credly.com/earner/earned/badge/d37c6a51-500c-4517-8c8b-81bf75d0b44f"><img align="left" src="https://images.credly.com/size/110x110/images/f7387386-553c-4be5-b3f3-077f78152f31/Network_Security.png" alt="Network Security badge image. Issued by Cisco" height="150" width="150">
+</a>
+
 </div>
 
 
