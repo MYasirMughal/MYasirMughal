@@ -91,6 +91,10 @@ You can click the Preview link to take a look at your changes.
 <img src="https://images.credly.com/size/340x340/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png" alt="IT Essentials badge image. Issued by Cisco" style="width: auto; height: auto; max-width: 100px; max-height: 100px;">
 </a>    
 
+<a href="https://www.credly.com/badges/f366963f-0b29-4acf-bfa2-38731bac87e2">
+<img src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" alt="Cybersecurity Essentials badge image. Issued by Cisco" style="width: auto; height: auto; max-width: 100px; max-height: 100px;">
+    </a>
+
 </div>
 
 
@@ -114,6 +118,9 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.credly.com/earner/earned/badge/d37c6a51-500c-4517-8c8b-81bf75d0b44f"><img src="https://images.credly.com/size/110x110/images/f7387386-553c-4be5-b3f3-077f78152f31/Network_Security.png" alt="Network Security badge image. Issued by Cisco" style="width: 100%; height: auto; max-width: 10px; max-height: 10px;">
 </a>
 
+
+
+
 </div>
 
 
@@ -123,14 +130,6 @@ You can click the Preview link to take a look at your changes.
 
 <table>
   <tr>
-
-    <td>
-
-    </td>
-  <td>
-    <a href="https://www.credly.com/badges/f366963f-0b29-4acf-bfa2-38731bac87e2"><img src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" alt="Cybersecurity Essentials badge image. Issued by Cisco" width="150" height="150">
-    </a>
-  </td>
   <td>
     <a href="https://www.credly.com/badges/d8e14cce-f7ca-4b73-af1e-20e997cf8744"><img src="https://images.credly.com/size/340x340/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" alt="ISC2 Candidate badge image. Issued by ISC2" width="150" height="150">
 </a>
