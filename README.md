@@ -46,8 +46,7 @@ You can click the Preview link to take a look at your changes.
   Cisco Achieved Badges
 </h3>
 
-
-<div style="display: flex; align-items: center; flex-wrap: wrap; margin-top: 20px; width: 100%; justify-content: center;">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; margin: 20px auto; width: 100%; max-width: 1200px;">
 
   <a href="https://www.credly.com/earner/earned/badge/627a72ce-39c3-4982-84b6-dc7ee708b2c1" style="margin-right: 10px;">
     <img src="https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Networking Basics badge image. Issued by Cisco" style="width: 110px; height: 110px; object-fit: contain;">
