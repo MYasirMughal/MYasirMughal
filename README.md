@@ -57,6 +57,10 @@ You can click the Preview link to take a look at your changes.
     
     <div style="display: flex; flex-wrap: wrap; gap: 5px;">
       
+</div>
+ </div>
+      
+
       <div>
         <a href="https://www.credly.com/badges/cf1c9713-c8a1-422e-84cd-b81d3a363e05">
           <img src="/Badges/AWS-SAA.png" alt="AWS Solution Architect" width="140" height="140" />
@@ -146,10 +150,7 @@ You can click the Preview link to take a look at your changes.
           <img src="/Badges/OSB.png" alt="Operating System Basics" width="140" height="140" />
         </a>
       </div>
-  </div>
- </div>
-</div>
-      
+  
 
 
 
