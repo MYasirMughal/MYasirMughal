@@ -56,10 +56,6 @@ You can click the Preview link to take a look at your changes.
     <h1 style="padding-top: 8px; padding-bottom: 4px; font-size: 30px; font-weight: 300;">Achieved Digital Badges</h1>
     
     <div style="display: flex; flex-wrap: wrap; gap: 5px;">
-      
-
-
-      
 
       <div>
         <a href="https://www.credly.com/badges/cf1c9713-c8a1-422e-84cd-b81d3a363e05">
