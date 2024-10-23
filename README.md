@@ -54,11 +54,11 @@ You can click the Preview link to take a look at your changes.
 
   <div style="padding: 15px;">
     <h1 style="padding-top: 8px; padding-bottom: 4px; font-size: 30px; font-weight: 300;">Achieved Digital Badges</h1>
-    </div>
+    
     <div style="display: flex; flex-wrap: wrap; gap: 5px;">
       
 
- </div>
+
       
 
       <div>
@@ -151,7 +151,9 @@ You can click the Preview link to take a look at your changes.
         </a>
       </div>
   
-
+</div>
+ </div>
+      
 
 
 
