@@ -52,7 +52,103 @@ You can click the Preview link to take a look at your changes.
 
 
 
+  <div style="padding: 15px;">
+    <h1 style="padding-top: 8px; padding-bottom: 4px; font-size: 30px; font-weight: 300;">Achieved Digital Badges</h1>
+    
+    <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+      
+      <div>
+        <a href="https://www.credly.com/badges/cf1c9713-c8a1-422e-84cd-b81d3a363e05">
+          <img src="/Badges/AWS-SAA.png" alt="AWS Solution Architect" width="140" height="140" />
+        </a>
+      </div>
 
+      <div>
+        <a href="https://www.credly.com/badges/a6a2d873-815a-493d-bc67-2ad6182d78fd">
+          <img src="/Badges/CCNA-ENSA.png" alt="CCNA ENSA" width="140" height="140" />
+        </a>
+      </div>
+
+      <div>
+        <a href="https://www.credly.com/badges/ebf52b02-4e26-45ee-a1b7-c649de9102e4">
+          <img src="/Badges/CCNA-SRWE.png" alt="CCNA SRWE" width="140" height="140" />
+        </a>
+      </div>
+
+      <div>
+        <a href="https://www.credly.com/badges/07d20ca4-3975-43c4-ae88-0fee50b5e3f8">
+          <img src="/Badges/CCNA-ITN.png" alt="CCNA ITN" width="140" height="140" />
+        </a>
+      </div>
+
+      <div>
+        <a href="https://www.credly.com/badges/d37c6a51-500c-4517-8c8b-81bf75d0b44f">
+          <img src="/Badges/Network_Security.png" alt="Network Security" width="140" height="140" />
+        </a>
+      </div>
+
+      <div>
+        <a href="https://www.credly.com/badges/c6acb438-6738-4e8d-80f2-e890d94f400a">
+          <img src="/Badges/Networking-Essentials.png" alt="Networking Essentials" width="140" height="140" />
+        </a>
+      </div>
+
+      <div>
+        <a href="https://www.credly.com/badges/71ca5de6-b815-4afa-9bd7-c8037d0ba8e0">
+          <img src="/Badges/CyberOpsAssoc.png" alt="Cyber Ops Associate" width="140" height="140" />
+        </a>
+      </div>
+
+      <div>
+        <a href="https://www.credly.com/badges/239e95c5-0e11-44b4-9973-b50ae0f7eeec">
+          <img src="/Badges/DEVASC.png" alt="DevNet Associate" width="140" height="140" />
+        </a>
+      </div>
+
+      <div>
+        <a href="https://www.credly.com/badges/f366963f-0b29-4acf-bfa2-38731bac87e2">
+          <img src="/Badges/CyberEssentials.png" alt="CyberSecurity Essentials" width="140" height="140" />
+        </a>
+      </div>
+
+      <div>
+        <a href="https://www.credly.com/badges/627a72ce-39c3-4982-84b6-dc7ee708b2c1">
+          <img src="/Badges/Networking-Basics.png" alt="Networking Basics" width="140" height="140" />
+        </a>
+      </div>
+
+      <div>
+        <a href="https://www.credly.com/badges/d8e14cce-f7ca-4b73-af1e-20e997cf8744">
+          <img src="/Badges/ISC2.png" alt="ISC2" width="140" height="140" />
+        </a>
+      </div>
+
+      <div>
+        <a href="https://www.credly.com/badges/be6418d8-70e0-4743-aae4-b17f735eb137">
+          <img src="/Badges/ITCS.png" alt="Intro to CyberSecurity" width="140" height="140" />
+        </a>
+      </div>
+
+      <div>
+        <a href="https://www.credly.com/badges/3bc754bd-81d8-40a8-88fb-5dc4032e1af4">
+          <img src="/Badges/ITE.png" alt="IT Essentials" width="140" height="140" />
+        </a>
+      </div>
+
+      <div>
+        <a href="https://www.credly.com/badges/4daf9745-4bb8-47fb-a4a4-47f9f559de44">
+          <img src="/Badges/CHB.png" alt="Computer Hardware Basics" width="140" height="140" />
+        </a>
+      </div>
+
+      <div>
+        <a href="https://www.credly.com/badges/0ce5c48c-9485-45df-ba6f-927ca533d464">
+          <img src="/Badges/OSB.png" alt="Operating System Basics" width="140" height="140" />
+        </a>
+      </div>
+      
+    </div>
+  </div>
 
       
 
