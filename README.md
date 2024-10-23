@@ -146,9 +146,8 @@ You can click the Preview link to take a look at your changes.
           <img src="/Badges/OSB.png" alt="Operating System Basics" width="140" height="140" />
         </a>
       </div>
-      
-    </div>
   </div>
+ </div>
 
       
 
