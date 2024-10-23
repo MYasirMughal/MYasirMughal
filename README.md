@@ -71,6 +71,12 @@ You can click the Preview link to take a look at your changes.
         </a>
       </div>
 
+</div>
+
+
+
+
+
       <div>
         <a href="https://www.credly.com/badges/ebf52b02-4e26-45ee-a1b7-c649de9102e4">
           <img src="/Badges/CCNA-SRWE.png" alt="CCNA SRWE" width="140" height="140" />
@@ -148,7 +154,6 @@ You can click the Preview link to take a look at your changes.
           <img src="/Badges/OSB.png" alt="Operating System Basics" width="140" height="140" />
         </a>
       </div>
-  
 </div>
  </div>
       
