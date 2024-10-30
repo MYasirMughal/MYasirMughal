@@ -38,8 +38,12 @@ You can click the Preview link to take a look at your changes.
 
 - 💞️ I’m looking to collaborate on ...
 
-- 📫 How to reach me **myasirmughal69@gmail.com**
-
+- 📫 How to reach me
+<p align="left">
+<a href="https://linkedin.com/in/m-yasir-mughal" target="blank">
+</a>
+**https://linkedin.com/in/m-yasir-mughal**
+</p>
 
 # Achieved Digital Badges
 
